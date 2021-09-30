@@ -4,5 +4,6 @@ background-blend-mode: darken;
 }
 body{color: whitesmoke;
 font-weight: bold;}
-h1{ color: blue;}
+h1{ color: blue;
+font-weight: bold;}
 h2{color: red;}
